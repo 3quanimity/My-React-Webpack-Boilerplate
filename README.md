@@ -1,5 +1,4 @@
-# indecision-app
-
+# React Webpack Boilerplate with sass (v1)
 ## Table of Contents
 
 - [About](#about)
